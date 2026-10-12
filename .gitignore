@@ -1,0 +1,10 @@
+# секреты
+.env
+
+# переписка и состояние бота
+history.json
+state.json
+*.tmp
+
+.venv/
+__pycache__/
